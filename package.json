@@ -1,7 +1,7 @@
 {
   "name": "atom-netlinx",
   "main": "./lib/atom-netlinx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compile AMX .AXS files from atom",
   "keywords": [
     "amx",
