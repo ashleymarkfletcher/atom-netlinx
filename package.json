@@ -1,10 +1,12 @@
 {
   "name": "atom-netlinx",
   "main": "./lib/atom-netlinx",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Compile AMX .AXS files from atom",
   "keywords": [
-    "amx", "netlinx", "axs"
+    "amx",
+    "netlinx",
+    "axs"
   ],
   "activationCommands": {
     "atom-workspace": "atom-netlinx:compile"
@@ -14,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
