@@ -3,7 +3,13 @@
     "atom-text-editor": [
       {
         "label": "Toggle atom-netlinx",
-        "command": "atom-netlinx:toggle"
+        "command": "atom-netlinx:compile"
+      }
+    ],
+    "atom-workspace": [
+      {
+        "label": "Toggle atom-netlinx",
+        "command": "atom-netlinx:compile"
       }
     ]
   },
@@ -15,8 +21,8 @@
           "label": "atom-netlinx",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-netlinx:toggle"
+              "label": "compile",
+              "command": "atom-netlinx:compile"
             }
           ]
         }

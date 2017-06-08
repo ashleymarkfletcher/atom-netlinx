@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-netlinx:toggle"
+    "ctrl-alt-o": "atom-netlinx:compile"
   }
 }

@@ -1,14 +1,15 @@
 {
   "name": "atom-netlinx",
   "main": "./lib/atom-netlinx",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Compile AMX .AXS files from atom",
   "keywords": [
+    "amx", "netlinx", "axs"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-netlinx:toggle"
+    "atom-workspace": "atom-netlinx:compile"
   },
-  "repository": "https://github.com/atom/atom-netlinx",
+  "repository": "https://github.com/ashleymarkfletcher/atom-netlinx",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
