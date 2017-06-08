@@ -2,31 +2,15 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-netlinx",
+        "label": ".axs compile",
         "command": "atom-netlinx:compile"
       }
     ],
     "atom-workspace": [
       {
-        "label": "Toggle atom-netlinx",
+        "label": ".axs compile",
         "command": "atom-netlinx:compile"
       }
     ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "atom-netlinx",
-          "submenu": [
-            {
-              "label": "compile",
-              "command": "atom-netlinx:compile"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }
